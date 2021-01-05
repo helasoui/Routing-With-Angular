@@ -1,20 +1,27 @@
-# Routing-With-Angular
+# RoutingWithAngular
 
-#This projects includes these topics :*
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
-1- how to configure routes with app-routing-module 
-2-routing and navigation with angular 
-3-working with wilcards and redirecting routes 
-4-route parameters: how to pass parameters in URL between components and how to consume them 
-5-working with ParamMap observable 
-6-Optional route parameters 
-7-Relative navigation 
-8-child routes  
+## Development server
 
-#All the work is done in two components: DepartmentsDetails Component and Department Component 
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-#How to run the code: 
--prerequisite tools: 
-*nodeJs and NPM (Node package manager installed with node Js) 
-*install angular CLI : npm install -g @angular/cli 
-*run project using: ng serve --open / ng s -o
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
